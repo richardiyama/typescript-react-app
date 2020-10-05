@@ -1,8 +1,24 @@
+## Before Increment
+
+<img src="https://github.com/richardiyama/typescript-react-app/blob/master/public/Initial.JPG" height="400" />
+
+
+## Increment
+
+<img src="https://github.com/richardiyama/typescript-react-app/blob/master/public/Increment.JPG" height="400" />
+
+## Decrement
+
+<img src="https://github.com/richardiyama/typescript-react-app/blob/master/public/Decrement.JPG" height="400" />
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+To install packages
 
 ### `yarn start`
 
