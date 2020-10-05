@@ -1,14 +1,16 @@
 import React, { PropsWithChildren } from 'react'
 
 interface ButtonProps{
-     color: string
+     color: string,
+     handleClick: () => void;
 }
 
 
 const Button = (props: PropsWithChildren<ButtonProps>) =>{
-const {color,children} = props
+const {color,children,handleClick} = props
     return(
     <span 
+    onClick={handleClick}
     style={{
         cursor:'pointer', 
         backgroundColor: color,
