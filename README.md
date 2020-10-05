@@ -1,6 +1,6 @@
 ## Before Increment
 
-<img src="https://github.com/richardiyama/typescript-react-app/blob/master/public/Initial.JPG" height="400" />
+<img src="https://github.com/richardiyama/typescript-react-app/blob/master/public/Intial.JPG" height="400" />
 
 
 ## Increment
